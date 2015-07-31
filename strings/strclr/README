@@ -1,0 +1,3 @@
+void ft_strclr(char *s);
+
+This function takes a string as argument, fill it with '\0' and returns nothing.

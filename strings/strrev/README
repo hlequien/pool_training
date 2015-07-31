@@ -1,0 +1,3 @@
+char *ft_strrev(char *s);
+
+This function take a string as argument and returns a new string wich is s with all characters place reversed. ie : ft_strrev("abcde") returns "edcba"

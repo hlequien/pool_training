@@ -1,0 +1,6 @@
+int ft_strlen_no_int(char *s)
+
+
+/!\ The only type of variable allowed is char *, no int, no size_t, no array notation, only pointers aritmetic /!\
+
+This function takes a string as argument and returns the size of the string. ie : the number of charaters.

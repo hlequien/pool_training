@@ -1,0 +1,5 @@
+char *ft_itoa_base(int n, int base);
+
+This function takes two integers as argument and returns the value of n in the specified base.
+
+Negatives numbers can be provided only if base == 10, if not, the behavior is undefined.

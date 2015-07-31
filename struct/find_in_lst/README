@@ -1,0 +1,5 @@
+t_list *ft_find_in_list(void *data, int (*f)(void *, void *));
+
+This function takes a void pointer and function pointer as argument and returns the element of the list that match with data using the f function, if no elemenet match, NULL is returned.
+
+f is a function that takes two void pointers as arguments and returns 1 on match success, 0 on failure.

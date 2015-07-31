@@ -1,0 +1,5 @@
+A header file must be turned in, containing the declaration of a structure list named s_list and typedef-ed t_list.
+The structure is defined as it follows :
+- data (no specific type)
+- data size
+- next

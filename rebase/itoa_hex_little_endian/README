@@ -1,0 +1,5 @@
+char *ft_itoa_hex_litlle_endian(int n);
+
+This function takes an integer as argument and returns the value of this argument in hexadecimal, little endian notation. ie : usually : (dec)11259375 == (hex)ABCDEF ; must be : (dec)11259375 == (hex)FEDCBA.
+
+The function takes positives numbers only, if not, the behavior is undefined.

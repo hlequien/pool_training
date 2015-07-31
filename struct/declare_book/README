@@ -1,0 +1,6 @@
+A header file must be turned in, containing the declaration of a structure that can store books informations as it follows :
+
+- ISBN
+- Book title
+- Author name
+- Page count

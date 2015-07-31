@@ -1,0 +1,5 @@
+ft_cat [FILE ...]
+
+This program is a simple version of cat, no options needed, it just print files, it takes 1 or more files as argument, if not, it read standard input.
+
+read is allowed.

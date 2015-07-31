@@ -1,0 +1,7 @@
+void ft_lst_insert_after(t_list *lst, t_list *elem, void *match, int (*f)(void *, void *));
+
+This function takes two list pointers, a void pointer and a function pointer as argument.
+It insert elem in lst, right after the element wich data match with the match argument according to the f function.
+If there is no match, elem is inserted after the last element.
+
+f is a function that takes 2 void pointers and returns 1 if match success, 0 on failure.

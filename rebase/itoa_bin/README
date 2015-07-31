@@ -1,0 +1,5 @@
+char *ft_itoa_bin(int n);
+
+This function takes an integer as argument and returns a string that contains the value of n in binary.
+
+Only positives numbers must be provided, if not, the behavior is undefined.

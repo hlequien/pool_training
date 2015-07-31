@@ -1,0 +1,3 @@
+char *ft_strjoin(char *s1, char *s2);
+
+This function takes 2 strings as arguments, concatenate them in a new string wich is returned.

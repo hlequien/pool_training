@@ -1,0 +1,7 @@
+t_list *ft_argv_to_lst(char **argv);
+
+This function takes a nul-terminated array of strings such as argv, store strings in a list of type t_list.
+
+t_list definition is the same you did in declare_lst
+
+malloc is allowed.

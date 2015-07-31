@@ -1,0 +1,5 @@
+char *ft_strnew(size_t sz);
+
+This function takes a size_t as argument wich is the max number of char that should fit in the string returned : an empty string filled with '\0' ready to be filled with a string of size sz.
+
+There is a trick.

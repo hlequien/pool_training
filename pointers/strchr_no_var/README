@@ -1,0 +1,5 @@
+char *ft_strchr_no_var(char *s, int c);
+
+/!\ No variable declaration allowed /!\
+
+This function takes a string and an int as arguments, returns a pointer to the first occurence of c in str, if no occurence, returns NULL.

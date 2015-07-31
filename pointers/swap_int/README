@@ -1,0 +1,3 @@
+void ft_swap_int(int *a, int *b);
+
+This function take 2 int pointers, swaps a and b values and returns nothing.

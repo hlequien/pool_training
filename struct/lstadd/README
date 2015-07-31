@@ -1,0 +1,3 @@
+void ft_lstadd(t_list **begin, t_list *elem);
+
+This function add elem at the beginning of the list. 

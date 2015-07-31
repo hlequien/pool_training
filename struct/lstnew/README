@@ -1,0 +1,5 @@
+t_list *ft_lstnew(void *data, size_t data_size);
+
+This function create a new t_list and assigns data to its data member and data_size to its data_size member.
+
+malloc is allowed.
