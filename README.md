@@ -1,6 +1,6 @@
-# Training exercises for the end of 42's piscine
+# Training exercises for the end of 42's pool
 
-## This project is for candidates to 42born2code finishing their piscine, it's basic C exercises and small projects (4 hours max per project)
+## This project is for candidates to 42born2code finishing their pool, it's basic C exercises and small projects (4 hours max per project)
 
 ### Every exercise has a README file to explain what you're supposed to do
 
